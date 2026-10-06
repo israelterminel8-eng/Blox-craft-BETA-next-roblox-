@@ -1,0 +1,6 @@
+{
+  "name": "BloxCraft 3D",
+  "description": "Plataforma de juegos 3D, personalización de avatares, tienda de accesorios, creación con Luau, recompensas por tiempo, salas privadas y chat social.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
